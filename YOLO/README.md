@@ -1,6 +1,5 @@
 #YOLO_tensorflow
 
-(Version 0.2, Last updated :2016.02.16)
 
 ###1.Introduction
 
@@ -63,13 +62,3 @@ YOLO_tiny  : https://drive.google.com/file/d/0B2JbaJSrWLpza0FtQlc3ejhMTTA/view?u
 - Tensorflow
 - Opencv2
 
-###5.Copyright
-
-According to the LICENSE file of the original code, 
-- Me and original author hold no liability for any damages
-- Do not use this on commercial!
-
-###6.Changelog
-2016/02/15 : First upload!
-
-2016/02/16 : Added YOLO_tiny, Fixed bug that ignores one of the boxes in grid when both boxes detected valid objects
