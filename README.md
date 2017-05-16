@@ -143,9 +143,9 @@ According to the LICENSE file of the original code,
   
   Thanks to Professors:
   
-  - **Elena Baralis** from Politecnico di Torino Dipartimento di Automatica e Informatica;
   - **Jordi Torres** from BSC Department of Computer Science;
   - **Xavi Giro ”I” Nieto** from UPC Department of Image Processing.
+  - **Sanjay Singh** from department of Machine Learning and Artificial Intelligence
   
   ## 11.Bibliography
   ### i.Course
