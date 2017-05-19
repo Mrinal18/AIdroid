@@ -1,10 +1,17 @@
 Tensorflow Folder:
 
-It includes two programs, one using cnn and the other using regular regular perceptron model. I used the MNIST dataset because it was easily accessible. Now that I have made the model I have to find a suitable dataset and then apply the model on that dataset for optimal results. The cnn model gives more accuracy on the same dataset than the regular perceptron model. I have included the mnist dataset within.
+It includes two programs, one using cnn and the other using regular regular perceptron model. 
+I used the MNIST dataset because it was easily accessible. Now that I have made the model
+I have to find a suitable dataset and then apply the model on that dataset for optimal results. 
+The cnn model gives more accuracy on the same dataset than the regular perceptron model. 
+I have included the mnist dataset within.
 
 tf_files: 
 
-This folder contains the program for image classification using the tensoflow for poets library. It uses a model called the imagenet3 model which is a model which was built after training on nearly 5 million pictures. We are doing a process called retraining where we use a pre-existing model and further train that model using our own dataset(a set of pictures of flowers). It is supposed to be ran off a container from docker.
+This folder contains the program for image classification using the tensoflow for poets library. 
+It uses a model called the imagenet3 model which is a model which was built after training on nearly 5 million pictures. 
+We are doing a process called retraining where we use a pre-existing model and further train that model using our own dataset(a set of pictures of flowers).
+It is supposed to be ran off a container from docker.
 
 I will apply the cnn model on a suitable dataset and submit results, as soon as i find one. 
 
